@@ -1,0 +1,19 @@
+* {
+    margin: 0; /*Tirar margem que o navegador coloca por padrão  (Margem é o espaçamento de fora)*/
+
+    padding: 0; /*Espaçamento de dentro*/
+
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none ;
+}
+
+
+
+
+
+/* Reset é um arquivo que contem seletores que tiram os padroes que tem no navegador */
+
+/* CNTL + ; ABRE COMENTÁRIOS */
